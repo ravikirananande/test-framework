@@ -1,0 +1,6 @@
+	2023-08-30 17:21:49,433 - DEBUG: debug: Addition of two numbers are 8
+	2023-08-30 17:21:49,433 - INFO: info: Addition of two numbers are 8
+	2023-08-30 17:21:49,433 - WARNING: warning: Addition of two numbers are 8
+	2023-08-30 17:21:49,433 - ERROR: error: Addition of two numbers are 8
+	2023-08-30 17:21:49,433 - ERROR: error: Addition of two numbers are 24
+	2023-08-30 17:21:49,433 - CRITICAL: error: Addition of two numbers are 24
