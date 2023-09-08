@@ -11,3 +11,4 @@ def setup(request):
     request.cls.wait=wait
     yield
     driver.close()
+    #sdfsagdfsg
